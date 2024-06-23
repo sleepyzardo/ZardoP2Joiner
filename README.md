@@ -12,6 +12,8 @@ This program is updated for new discord API as of 23rd june 2024
 - Requires very less coding knowledge
 - Very affordable
 - Handles ratelimits if any
+- Uses OAuth2 so no chance of lock
+- Automatically generates auth codes
 
 
 
