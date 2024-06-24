@@ -20,7 +20,7 @@ This program is updated for new discord API as of 23rd june 2024
 ## Pricing
 Zardo and the associates do not provide any subscription based service for this program. If you wish to buy it, it has to be the source code. This however is subjected to change.
 
-- $5 for the source code along with the practices involved to carry out safe execution.
+- $6 for the source code along with the practices involved to carry out safe execution.
 
 > Prices are subjected to change.
 
